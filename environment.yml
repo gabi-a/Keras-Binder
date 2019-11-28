@@ -18,6 +18,8 @@ dependencies:
   - tensorflow
   - nbserverproxy
   - keras
+  - joblib
+  - scikit-learn
   - pip:
     - pydot
     - graphviz
